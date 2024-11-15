@@ -27,6 +27,8 @@ Click the 'Login' button	User is taken to the dashboard page
 // Navigate to the login page
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
 // Enter valid username 'Admin' in the username field
@@ -41,3 +43,4 @@ WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
 WebUI.verifyElementText(findTestObject('Page_OrangeHRM/h6_Dashboard'), 'Dashboard')
 
 WebUI.closeBrowser()
+
