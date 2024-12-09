@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Story11&#xd;
+Description: </description>
+   <name>IN-3 Story11</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10020&quot;:[{&quot;id&quot;:1,&quot;name&quot;:&quot;IN Sprint 1&quot;,&quot;state&quot;:&quot;future&quot;,&quot;boardId&quot;:1}],&quot;customfield_10000&quot;:&quot;{}&quot;,&quot;customfield_10002&quot;:[],&quot;customfield_10017&quot;:&quot;purple&quot;,&quot;customfield_10039&quot;:&quot;Scenario Outline: eating\n  Given there are \u003cstart\u003e cucumbers\n  When I eat \u003ceat\u003e cucumbers\n  Then I should have \u003cleft\u003e cucumbers\n\n  Examples:\n    | start | eat | left |\n    |    12 |   5 |    7 |\n    |    20 |   5 |   15 |&quot;,&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0000f:&quot;},&quot;status&quot;:{&quot;id&quot;:10000,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://pravinrajpaul.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:2,&quot;key&quot;:&quot;new&quot;,&quot;colorName&quot;:&quot;blue-gray&quot;,&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/statuscategory/2&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/status/10000&quot;,&quot;name&quot;:&quot;To Do&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/project/10000&quot;,&quot;key&quot;:&quot;IN&quot;,&quot;id&quot;:10000,&quot;name&quot;:&quot;InitialProject&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Story11&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;pravinrajpaul@gmail.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;Pravin Raj Paul&quot;,&quot;accountId&quot;:&quot;5a5ee328c5aa7728df8617e7&quot;,&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/user?accountId\u003d5a5ee328c5aa7728df8617e7&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/issue/IN-3/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[]},&quot;self&quot;:&quot;https://pravinrajpaul.atlassian.net/rest/api/2/issue/10002&quot;,&quot;key&quot;:&quot;IN-3&quot;,&quot;id&quot;:10002}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment>Scenario Outline: eating&#xd;
+  Given there are &lt;start> cucumbers&#xd;
+  When I eat &lt;eat> cucumbers&#xd;
+  Then I should have &lt;left> cucumbers&#xd;
+&#xd;
+  Examples:&#xd;
+    | start | eat | left |&#xd;
+    |    12 |   5 |    7 |&#xd;
+    |    20 |   5 |   15 |</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>34fe3ab8-3b9c-468f-9475-88c4c4ca942d</testCaseGuid>
+</TestCaseEntity>
