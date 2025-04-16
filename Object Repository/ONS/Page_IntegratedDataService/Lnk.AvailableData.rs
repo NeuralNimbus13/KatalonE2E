@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Lnk.AvailableData</name>
+   <tag></tag>
+   <elementGuidId>31022e3f-fcf3-4077-b015-fd02045745ed</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Available data')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Main menu&quot;i >> internal:role=link[name=&quot;Available data&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a3eefc2-fa42-4051-a5f9-36907bf867c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ons-navigation__link</value>
+      <webElementGuid>4cbc24b5-2e52-438f-afb6-3c703ec31b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://app.integrateddataservice.gov.uk/data-catalogue</value>
+      <webElementGuid>958c3c1e-e303-418d-b6ff-de7e420de77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Available data</value>
+      <webElementGuid>9a1cab25-4ee0-4f85-8119-c54f50171702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-nav&quot;)/ul[@class=&quot;ons-navigation__list&quot;]/li[@class=&quot;ons-navigation__item&quot;]/a[@class=&quot;ons-navigation__link&quot;]</value>
+      <webElementGuid>5a6989c7-dffc-4586-9932-2ad805718be6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='main-nav']/ul/li[5]/a</value>
+      <webElementGuid>bb3d8f43-cc40-4c0d-90a8-a17a86d925c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Available data')]</value>
+      <webElementGuid>d333bb77-2079-4033-a4cc-97cdbcbdf92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to access'])[1]/following::a[1]</value>
+      <webElementGuid>898ab93e-a486-4cf0-a141-3db874470905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keeping data secure'])[1]/following::a[2]</value>
+      <webElementGuid>cef48162-941e-47fe-b3a6-58dbdbfb6e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[1]/preceding::a[1]</value>
+      <webElementGuid>a193c58d-315c-433c-8d05-35dae4c5461a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Integrated Data Service'])[2]/preceding::a[2]</value>
+      <webElementGuid>d3b94a23-7305-4f7b-a074-a11623231eb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Available data']/parent::*</value>
+      <webElementGuid>71bca4cc-534c-4c53-b64c-2649407409dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://app.integrateddataservice.gov.uk/data-catalogue')]</value>
+      <webElementGuid>58758ea4-47cd-455c-b75c-3cf2ce68b31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>80273a90-ef89-454e-92c7-0056ae334c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://app.integrateddataservice.gov.uk/data-catalogue' and (text() = 'Available data' or . = 'Available data')]</value>
+      <webElementGuid>272503fa-8d50-4980-8b27-f8a120f2b46c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

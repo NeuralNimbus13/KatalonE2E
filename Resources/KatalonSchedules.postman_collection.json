@@ -1,0 +1,88 @@
+{
+	"info": {
+		"_postman_id": "260aefaa-00ca-4b59-b72e-c358a420c706",
+		"name": "KatalonSchedules",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9721392"
+	},
+	"item": [
+		{
+			"name": "UpdateSchedule",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJpZTlDMnN4ZjZ4czczSHJxY0QyejRxcVVzNEFpOWVzNXR5SVVKYmRTYW04In0.eyJleHAiOjE3MTk5ODA2MTksImlhdCI6MTcxOTgwNzgxOSwiYXV0aF90aW1lIjoxNzE5ODA3ODEwLCJqdGkiOiIxYjhkMjAzMC1mY2E2LTRlZjMtYWU0Yi1lZjUxNmI2ZDdkNmEiLCJpc3MiOiJodHRwczovL2xvZ2luLmthdGFsb24uY29tL3JlYWxtcy9rYXRhbG9uIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6ImIwMTJkMWY0LTQzNmYtNDA0ZS1iNmJmLTdiYTgwNzExYWQ2NCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImthdGFsb24tdGVzdG9wcyIsInNlc3Npb25fc3RhdGUiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJhY3IiOiIxIiwiYWxsb3dlZC1vcmlnaW5zIjpbIiIsImh0dHBzOi8vYW5hbHl0aWNzLmthdGFsb24uY29tIiwiaHR0cHM6Ly90ZXN0b3BzLXByZS5rYXRhbG9uLmNvbSIsImh0dHBzOi8vdGVzdG9wcy5rYXRhbG9uLmlvIiwiaHR0cHM6Ly90ZXN0b3BzLWcyLmthdGFsb24uY29tIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiIsImRlZmF1bHQtcm9sZXMta2F0YWxvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJzaWQiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwidXBkYXRlZF90aW1lc3RhbXAiOjE2OTY2NjE3NTM4NDgsImxhc3RfbG9naW4iOjE3MTk4MDc4MTAyMjYsIm5hbWUiOiJQcmF2aW4gUmFqIFBhdWwiLCJjcmVhdGVkX3RpbWVzdGFtcCI6MTY4MjQwNjYxMDIyNCwicHJlZmVycmVkX3VzZXJuYW1lIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20iLCJnaXZlbl9uYW1lIjoiUHJhdmluIFJhaiIsImZhbWlseV9uYW1lIjoiUGF1bCIsImVtYWlsIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20ifQ.LJ4mDOz5k8SWVf3ldMqcmK4ASfBzoAwS3Pa8KB3XoX6wxcB5nXUU7O_gptXlsnUoKwPEgzDJsfMo5EnAeE9zxQf39rvwC7QFSP39LR5B0TIRQY-qLl_79X4edJlW65_4E192dihlgj4ezJ7Tlq3KCjUIto2-uIaztvd8aTsIbWFr5K5IKLAjAN_x0Dpl_OL_fwh7KTZbUYfgVoFXe8JMj826hfKk-VmgQDr4gNebh6oBvMuheOIGPNy0wxv85zY2-sQoHxMG5wUs0FvzY0d7Hz25QCKFy3A-r9OFjDuHlaWla_c6rMrzDUgvycYHzuv84t_3_MEgCWwKLeLeHVF5rw",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": 788776,\r\n    \"name\": \"APIUpdate\",\r\n    \"projectId\": 1131203,\r\n    \"teamId\": 852034,\r\n    \"testProjectId\": 1398320,\r\n    \"testSuiteCollectionId\": 715031,\r\n    \"testSuiteId\": 12653614,\r\n    \"executionProfileId\": 605439,\r\n    \"timeOut\": 180,\r\n    \"configType\": \"TEST_SUITE\",\r\n    \"testProject\": {\r\n        \"id\": 1398320,\r\n        \"name\": \"KatalonDemo.git\",\r\n        \"description\": \"\",\r\n        \"projectId\": 1131203,\r\n        \"teamId\": 852034,\r\n        \"createdAt\": \"2024-02-16T06:19:46.802+0000\",\r\n        \"type\": \"GIT\",\r\n        \"dirty\": false,\r\n        \"autonomous\": false,\r\n        \"targetDirectory\": \"\"\r\n    },\r\n    \"testCloudAgents\": [\r\n        {\r\n            \"id\": 376879,\r\n            \"name\": \"902399andchromelatest\",\r\n            \"os\": \"android\",\r\n            \"osVersion\": \"15\",\r\n            \"browser\": \"chrome\",\r\n            \"browserVersion\": \"latest\",\r\n            \"browserType\": \"MOBILE_NATIVE\",\r\n            \"deviceName\": \"Google Pixel 6 Pro\",\r\n            \"appId\": \"ed36942d-5499-4a1b-ae75-1c6f43c67df2\",\r\n            \"appName\": \"APIDemos_01.apk\",\r\n            \"deviceId\": \"google_pixel_6_pro\",\r\n            \"numExecutingJobs\": 0,\r\n            \"numAssignedJobs\": 0,\r\n            \"deleted\": false,\r\n            \"totalDuration\": 0,\r\n            \"metadata\": {\r\n                \"appVersion\": \"3.15\",\r\n                \"devicePool\": \"main_shared_pool\"\r\n            },\r\n            \"headless\": false,\r\n            \"executionType\": \"MOBILE_NATIVE\"\r\n        }\r\n    ],\r\n    \"testCloudTestSuiteCollectionAgents\": [],\r\n    \"cloudType\": \"TEST_CLOUD_AGENT\",\r\n    \"ksVersion\": \"latest\",\r\n    \"executionMode\": \"SEQUENTIAL\",\r\n    \"enabledKobitonIntegration\": false,\r\n    \"enabledTestCloudTunnel\": false,\r\n    \"triggerMode\": \"MANUAL_TRIGGER\",\r\n    \"browserType\": \"ALL\",\r\n    \"xrayImportReportType\": \"PUSH_MANUALLY\",\r\n    \"testRunConfig\": {\r\n        \"executionType\": \"G4\",\r\n        \"executionMetadata\": {\r\n            \"agentType\": \"TEST_CLOUD\",\r\n            \"engine\": {\r\n                \"type\": \"G4\",\r\n                \"version\": \"latest\"\r\n            },\r\n            \"config\": {\r\n                \"testSuiteId\": 12653614,\r\n                \"testSuiteCollectionId\": 715031,\r\n                \"executionEnvs\": [\r\n                    {\r\n                        \"platform\": \"android\",\r\n                        \"platformVersion\": \"15\",\r\n                        \"framework\": \"SELENIUM\"\r\n                    }\r\n                ]\r\n            }\r\n        },\r\n        \"settings\": {\r\n            \"executionMode\": \"SEQUENTIAL\",\r\n            \"enabledKobitonIntegration\": false,\r\n            \"enabledTestCloudTunnel\": false\r\n        },\r\n        \"scheduler\": {\r\n            \"startTime\": \"2024-07-01T05:15:10.449+0000\",\r\n            \"active\": false\r\n        }\r\n    },\r\n    \"source\": \"USER\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://testops.katalon.io/api/v1/smart-scheduler/save-configuration?verifyRunConfiguration=true",
+					"protocol": "https",
+					"host": [
+						"testops",
+						"katalon",
+						"io"
+					],
+					"path": [
+						"api",
+						"v1",
+						"smart-scheduler",
+						"save-configuration"
+					],
+					"query": [
+						{
+							"key": "verifyRunConfiguration",
+							"value": "true"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetScheduleDetails",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJpZTlDMnN4ZjZ4czczSHJxY0QyejRxcVVzNEFpOWVzNXR5SVVKYmRTYW04In0.eyJleHAiOjE3MTk5ODA2MTksImlhdCI6MTcxOTgwNzgxOSwiYXV0aF90aW1lIjoxNzE5ODA3ODEwLCJqdGkiOiIxYjhkMjAzMC1mY2E2LTRlZjMtYWU0Yi1lZjUxNmI2ZDdkNmEiLCJpc3MiOiJodHRwczovL2xvZ2luLmthdGFsb24uY29tL3JlYWxtcy9rYXRhbG9uIiwiYXVkIjoiYWNjb3VudCIsInN1YiI6ImIwMTJkMWY0LTQzNmYtNDA0ZS1iNmJmLTdiYTgwNzExYWQ2NCIsInR5cCI6IkJlYXJlciIsImF6cCI6ImthdGFsb24tdGVzdG9wcyIsInNlc3Npb25fc3RhdGUiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJhY3IiOiIxIiwiYWxsb3dlZC1vcmlnaW5zIjpbIiIsImh0dHBzOi8vYW5hbHl0aWNzLmthdGFsb24uY29tIiwiaHR0cHM6Ly90ZXN0b3BzLXByZS5rYXRhbG9uLmNvbSIsImh0dHBzOi8vdGVzdG9wcy5rYXRhbG9uLmlvIiwiaHR0cHM6Ly90ZXN0b3BzLWcyLmthdGFsb24uY29tIl0sInJlYWxtX2FjY2VzcyI6eyJyb2xlcyI6WyJ1bWFfYXV0aG9yaXphdGlvbiIsImRlZmF1bHQtcm9sZXMta2F0YWxvbiJdfSwicmVzb3VyY2VfYWNjZXNzIjp7ImFjY291bnQiOnsicm9sZXMiOlsibWFuYWdlLWFjY291bnQiLCJtYW5hZ2UtYWNjb3VudC1saW5rcyIsInZpZXctcHJvZmlsZSJdfX0sInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwiLCJzaWQiOiI3NjVjMjg4Mi1iNDE1LTQwNDMtODE4Zi0zNjRiZWJkZmQ0ZmYiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwidXBkYXRlZF90aW1lc3RhbXAiOjE2OTY2NjE3NTM4NDgsImxhc3RfbG9naW4iOjE3MTk4MDc4MTAyMjYsIm5hbWUiOiJQcmF2aW4gUmFqIFBhdWwiLCJjcmVhdGVkX3RpbWVzdGFtcCI6MTY4MjQwNjYxMDIyNCwicHJlZmVycmVkX3VzZXJuYW1lIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20iLCJnaXZlbl9uYW1lIjoiUHJhdmluIFJhaiIsImZhbWlseV9uYW1lIjoiUGF1bCIsImVtYWlsIjoicHJhdmluLnJhdmVlbmRyYW5Aa2F0YWxvbi5jb20ifQ.LJ4mDOz5k8SWVf3ldMqcmK4ASfBzoAwS3Pa8KB3XoX6wxcB5nXUU7O_gptXlsnUoKwPEgzDJsfMo5EnAeE9zxQf39rvwC7QFSP39LR5B0TIRQY-qLl_79X4edJlW65_4E192dihlgj4ezJ7Tlq3KCjUIto2-uIaztvd8aTsIbWFr5K5IKLAjAN_x0Dpl_OL_fwh7KTZbUYfgVoFXe8JMj826hfKk-VmgQDr4gNebh6oBvMuheOIGPNy0wxv85zY2-sQoHxMG5wUs0FvzY0d7Hz25QCKFy3A-r9OFjDuHlaWla_c6rMrzDUgvycYHzuv84t_3_MEgCWwKLeLeHVF5rw",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://testops.katalon.io/api/v1/search?q=%7B%22pagination%22%3A%7B%22page%22%3A0%2C%22size%22%3A1%2C%22sorts%22%3A%22order%2Cdesc%22%7D%2C%22conditions%22%3A%5B%7B%22key%22%3A%22id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%22788776%22%7D%2C%7B%22key%22%3A%22Project.id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%221131203%22%7D%5D%2C%22type%22%3A%22RunConfiguration%22%7D",
+					"protocol": "https",
+					"host": [
+						"testops",
+						"katalon",
+						"io"
+					],
+					"path": [
+						"api",
+						"v1",
+						"search"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "%7B%22pagination%22%3A%7B%22page%22%3A0%2C%22size%22%3A1%2C%22sorts%22%3A%22order%2Cdesc%22%7D%2C%22conditions%22%3A%5B%7B%22key%22%3A%22id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%22788776%22%7D%2C%7B%22key%22%3A%22Project.id%22%2C%22operator%22%3A%22%3D%22%2C%22value%22%3A%221131203%22%7D%5D%2C%22type%22%3A%22RunConfiguration%22%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

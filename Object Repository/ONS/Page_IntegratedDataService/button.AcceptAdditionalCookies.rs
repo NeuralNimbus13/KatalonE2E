@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button.AcceptAdditionalCookies</name>
+   <tag></tag>
+   <elementGuidId>e22463b6-3988-4d30-874f-8da5a0004d86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ons-btn.ons-btn--small.ons-js-accept-cookies.ons-cookies-banner__btn.ons-btn--</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Accept additional cookies&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7fa9cfe-b049-4d99-a1b8-8a46e55a0783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff2ec017-18d2-4e3d-b68d-f60922543f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ons-btn ons-btn--small ons-js-accept-cookies ons-cookies-banner__btn ons-btn--</value>
+      <webElementGuid>8e1a9560-d8fe-4959-8787-d60a304b24b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-button</name>
+      <type>Main</type>
+      <value>accept</value>
+      <webElementGuid>572b1fde-998d-4f52-88d7-459ac6d8ddf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept additional cookies</value>
+      <webElementGuid>401bbfe0-b27d-4b31-87a2-6323daf3760d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ons-js-enabled&quot;]/div[@class=&quot;ons-page&quot;]/div[@class=&quot;ons-page__content&quot;]/div[@class=&quot;ons-cookies-banner&quot;]/div[@class=&quot;ons-container ons-container--wide ons-cookies-banner__primary&quot;]/div[@class=&quot;ons-grid ons-grid--flex ons-u-mt-s&quot;]/div[@class=&quot;ons-grid__col&quot;]/button[@class=&quot;ons-btn ons-btn--small ons-js-accept-cookies ons-cookies-banner__btn ons-btn--&quot;]</value>
+      <webElementGuid>98d6ccbb-f3f5-477d-a1ea-fa2081cec655</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>0ee57129-075b-4b34-b678-60fe85d21cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='additional cookies'])[1]/following::button[1]</value>
+      <webElementGuid>2262a6d5-8aae-4e81-983e-144f8718638c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookies on ons.gov.uk'])[1]/following::button[1]</value>
+      <webElementGuid>db829097-031b-421e-97d5-463e786358a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject additional cookies'])[1]/preceding::button[1]</value>
+      <webElementGuid>feb546a0-50d0-4456-814e-537af54b5e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>ffb2dd54-7b2a-4426-9713-b4ccc6bf7037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Accept additional cookies' or . = 'Accept additional cookies')]</value>
+      <webElementGuid>8a83ff0b-e55f-46f6-925e-6227579ebc72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

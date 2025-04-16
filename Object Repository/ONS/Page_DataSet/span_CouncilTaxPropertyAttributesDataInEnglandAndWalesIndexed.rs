@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_CouncilTaxPropertyAttributesDataInEnglandAndWalesIndexed</name>
+   <tag></tag>
+   <elementGuidId>15af6595-484a-4984-8af0-287d0882ff16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ids-data-catalogue-search-result-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Council Tax Property Attributes Data in England and Wales indexed' or . = 'Council Tax Property Attributes Data in England and Wales indexed')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Council Tax Property Attributes Data in England and Wales indexed&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a04d6fd6-71cd-49c7-ab75-12ac40cab852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ids-data-catalogue-search-result-title</value>
+      <webElementGuid>5db6b19e-df8d-43c9-bd90-2c43fce0b99d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Council Tax Property Attributes Data in England and Wales indexed</value>
+      <webElementGuid>34b03b63-a8f0-44df-9268-c6b38d563451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search-results&quot;)/ul[@class=&quot;ons-document-list&quot;]/li[@class=&quot;ons-document-list__item ids-data-catalogue-search-result&quot;]/div[@class=&quot;ons-document-list__item-content&quot;]/div[@class=&quot;ons-document-list__item-header&quot;]/h3[@class=&quot;ons-document-list__item-title ons-u-fs-m ons-u-mt-no ons-u-mb-xs&quot;]/a[1]/span[@class=&quot;ids-data-catalogue-search-result-title&quot;]</value>
+      <webElementGuid>57b29621-4334-434c-b4d6-0cfec54559d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='search-results']/ul/li/div/div/h3/a/span</value>
+      <webElementGuid>0fd80ad3-b041-47c9-84d6-e7170c8680a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/following::span[1]</value>
+      <webElementGuid>3eabe977-d786-45b9-92d2-4e7202e0071a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Results'])[1]/following::span[1]</value>
+      <webElementGuid>9ad1e7ae-b930-49cc-b30f-bf417f95d32a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valuation Office Agency'])[1]/preceding::span[1]</value>
+      <webElementGuid>4b65294a-2a05-467d-ac58-f96af4206083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theme:'])[1]/preceding::span[2]</value>
+      <webElementGuid>5c436ac1-26a4-4d1d-bef3-58de738c250f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Council Tax Property Attributes Data in England and Wales indexed']/parent::*</value>
+      <webElementGuid>9bb27894-25f2-4979-8e87-ad36d8aed9db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>34f8cb39-0aab-44c1-b3bc-00cd6704bd0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Council Tax Property Attributes Data in England and Wales indexed' or . = 'Council Tax Property Attributes Data in England and Wales indexed')]</value>
+      <webElementGuid>b33eda85-cc82-4fbf-9afd-8482d0952579</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span.Summary</name>
+   <tag></tag>
+   <elementGuidId>c85b8afa-00f4-464f-99a4-f73abffaa7b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.ons-u-m-no</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='details']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The Valuation Office Agency data provide property characteristics information fo&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9aedb60d-c4a1-423a-b440-33167cf19fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ons-u-m-no</value>
+      <webElementGuid>03151106-8946-49ee-9661-69362ae5569c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Valuation Office Agency data provide property characteristics information for domestic properties in England and Wales.</value>
+      <webElementGuid>111d9fae-c600-4169-9f2b-4303673f84e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;details&quot;)/div[@class=&quot;ons-grid ons-grid--column@xs@s&quot;]/div[@class=&quot;ons-grid__col ons-col-8@m&quot;]/div[@class=&quot;ids-u-bg-grey-5 ons-u-p-m&quot;]/p[@class=&quot;ons-u-m-no&quot;]</value>
+      <webElementGuid>8844186c-a5f1-4676-a49a-aa9111639f56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='details']/div/div/div/p</value>
+      <webElementGuid>a3ff751e-7b8a-4dc7-bfa3-45881643ee4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Summary'])[1]/following::p[1]</value>
+      <webElementGuid>74a84f73-7954-473b-a017-5e047785aa32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[3]/following::p[1]</value>
+      <webElementGuid>c2bcd89e-02bd-4d3b-aa8d-0de07baa3baa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::p[1]</value>
+      <webElementGuid>dd0de055-ee37-4b5c-a15c-c5e429639bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About this data'])[1]/preceding::p[2]</value>
+      <webElementGuid>2b29d420-3cbe-49a1-9322-78f1bebd4b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Valuation Office Agency data provide property characteristics information for domestic properties in England and Wales.']/parent::*</value>
+      <webElementGuid>1582121f-7439-4bad-ac6c-25538fabc4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0c3f44a8-81d5-4cde-804c-aa90767a4664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'The Valuation Office Agency data provide property characteristics information for domestic properties in England and Wales.' or . = 'The Valuation Office Agency data provide property characteristics information for domestic properties in England and Wales.')]</value>
+      <webElementGuid>cf2f0348-d384-4f9b-b567-e646320801a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
